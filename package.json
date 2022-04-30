@@ -1,0 +1,25 @@
+{
+  "name": "yjw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite serve packages/web"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-router": "^6.3.0",
+    "react-router-dom": "6.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.8",
+    "@types/react-router": "^5.1.18",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "1.3.1",
+    "vite": "2.9.6"
+  }
+}
